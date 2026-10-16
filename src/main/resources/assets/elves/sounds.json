@@ -1,0 +1,23 @@
+{
+  "entity.elf.ambient": {
+    "subtitle": "subtitles.elves.elf.ambient",
+    "sounds": [
+      "elves:entity/elf/ambient1",
+      "elves:entity/elf/ambient2",
+      "elves:entity/elf/ambient3"
+    ]
+  },
+  "entity.elf.hurt": {
+    "subtitle": "subtitles.elves.elf.hurt",
+    "sounds": [
+      "elves:entity/elf/hurt1",
+      "elves:entity/elf/hurt2"
+    ]
+  },
+  "entity.elf.death": {
+    "subtitle": "subtitles.elves.elf.death",
+    "sounds": [
+      "elves:entity/elf/death"
+    ]
+  }
+}

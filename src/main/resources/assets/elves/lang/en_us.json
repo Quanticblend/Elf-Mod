@@ -1,0 +1,7 @@
+{
+  "entity.elves.elf": "Elf",
+  "item.elves.elf_spawn_egg": "Elf Spawn Egg",
+  "subtitles.elves.elf.ambient": "Elf hums",
+  "subtitles.elves.elf.hurt": "Elf hurts",
+  "subtitles.elves.elf.death": "Elf dies"
+}

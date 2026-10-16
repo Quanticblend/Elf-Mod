@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "elves",
+  "version": "${version}",
+  "name": "Elves",
+  "description": "Graceful, neutral elves who dwell in villages. Wardens fight with blades, archers with bows. Leave them in peace and they will do the same.",
+  "authors": ["recklesstavern9"],
+  "license": "MIT",
+  "icon": "assets/elves/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.elvesmod.ElvesMod"],
+    "client": ["com.elvesmod.client.ElvesClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
